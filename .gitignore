@@ -1,0 +1,6 @@
+.ruff_cache
+*.pyc
+data
+*.class
+*.swp
+*.json

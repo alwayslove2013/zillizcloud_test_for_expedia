@@ -1,0 +1,9 @@
+uri#https://in01-2989e707dfccc67.aws-us-west-2.vectordb.zillizcloud.com:19541
+token#8efc847036e702885b3769467ea6ea4b228210733326ed0aa27eb562a6eb6f7fd366bbd8529b9a1fc5287d92c2b2fdb1c6068183
+collection_name#test_collection
+vector_field#vector
+dim#300
+topk#100
+conc_list#1,10,20,40,100,150,200,300,400,500
+conc_duration#300
+conc_intermission#30
